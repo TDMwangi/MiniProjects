@@ -1,2 +1,2 @@
 # Mini Projects
-Collection of small python projects
+Collection of small python projects.
